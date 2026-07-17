@@ -7205,7 +7205,7 @@
   {
    "name": "180 Twist",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7217,7 +7217,7 @@
   {
    "name": "360 Twist",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7229,7 +7229,7 @@
   {
    "name": "3 Point Shuriken",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7241,7 +7241,7 @@
   {
    "name": "3 Tier Cake Stand",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7253,7 +7253,7 @@
   {
    "name": "4 Point Shuriken",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7265,7 +7265,7 @@
   {
    "name": "6.35mm Audio Jack",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Electronics\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7277,7 +7277,7 @@
   {
    "name": "762x51mm Bullet",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7289,7 +7289,7 @@
   {
    "name": "9mm Bullet",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7301,7 +7301,7 @@
   {
    "name": "I Beam",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7313,7 +7313,7 @@
   {
    "name": "Abacus",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7325,7 +7325,7 @@
   {
    "name": "Acorn",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7337,7 +7337,7 @@
   {
    "name": "Acoustic Guitar",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Music & Instruments\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7349,7 +7349,7 @@
   {
    "name": "Adhesive Bottle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7361,7 +7361,7 @@
   {
    "name": "Air Vent 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7373,7 +7373,7 @@
   {
    "name": "Allen Key",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7385,7 +7385,7 @@
   {
    "name": "Allen Key Screw",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7397,7 +7397,7 @@
   {
    "name": "Allen Key Screw Head",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7409,7 +7409,7 @@
   {
    "name": "Anvil",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7421,7 +7421,7 @@
   {
    "name": "Apple",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7433,7 +7433,7 @@
   {
    "name": "Apple Core",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7445,7 +7445,7 @@
   {
    "name": "Apple Slice",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7457,7 +7457,7 @@
   {
    "name": "Apple Sliced",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7469,7 +7469,7 @@
   {
    "name": "Architrave Broken Ogee",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7481,7 +7481,7 @@
   {
    "name": "Architrave Chamfer",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7493,7 +7493,7 @@
   {
    "name": "Architrave Heritage",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7505,7 +7505,7 @@
   {
    "name": "Architrave Lambs Tongue",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7517,7 +7517,7 @@
   {
    "name": "Architrave Ogee",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7529,7 +7529,7 @@
   {
    "name": "Architrave Pencil Round",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7541,7 +7541,7 @@
   {
    "name": "Arrow",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7553,7 +7553,7 @@
   {
    "name": "Arrowhead",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7565,7 +7565,7 @@
   {
    "name": "Ash Tray",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7577,7 +7577,7 @@
   {
    "name": "Auction Paddle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Vehicles\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7589,7 +7589,7 @@
   {
    "name": "Avocado",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7601,7 +7601,7 @@
   {
    "name": "Avocado Slice",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7613,7 +7613,7 @@
   {
    "name": "Avocado Sliced",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7625,7 +7625,7 @@
   {
    "name": "Awning 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7637,7 +7637,7 @@
   {
    "name": "Awning 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7649,7 +7649,7 @@
   {
    "name": "Axe",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7661,7 +7661,7 @@
   {
    "name": "Axle Nut",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7673,7 +7673,7 @@
   {
    "name": "Bale Hook",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7685,7 +7685,7 @@
   {
    "name": "Ball Closure Ring",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7697,7 +7697,7 @@
   {
    "name": "Balloon Whisk",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Toys & Games\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7709,7 +7709,7 @@
   {
    "name": "Bandage",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7721,7 +7721,7 @@
   {
    "name": "Bandage Roll",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7733,7 +7733,7 @@
   {
    "name": "Banner Ui 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7745,7 +7745,7 @@
   {
    "name": "Banner Ui 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7757,7 +7757,7 @@
   {
    "name": "Banner Ui 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7769,7 +7769,7 @@
   {
    "name": "Banner Ui 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7781,7 +7781,7 @@
   {
    "name": "Banner Ui 05",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7793,7 +7793,7 @@
   {
    "name": "Barbed Arrowhead",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7805,7 +7805,7 @@
   {
    "name": "Baseball Bat",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Toys & Games\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7817,7 +7817,7 @@
   {
    "name": "Battle Axe",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7829,7 +7829,7 @@
   {
    "name": "Beaker",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7841,7 +7841,7 @@
   {
    "name": "Bedside Table 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7853,7 +7853,7 @@
   {
    "name": "Bell 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Music & Instruments\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7865,7 +7865,7 @@
   {
    "name": "Bellows",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7877,7 +7877,7 @@
   {
    "name": "Bevelled Speech Bubble",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7889,7 +7889,7 @@
   {
    "name": "Binoculars",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7901,7 +7901,7 @@
   {
    "name": "Birdhouse",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7913,7 +7913,7 @@
   {
    "name": "Bleach Bottle 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7925,7 +7925,7 @@
   {
    "name": "Bleach Bottle 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7937,7 +7937,7 @@
   {
    "name": "Blender Logo",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7949,7 +7949,7 @@
   {
    "name": "Blister Pack 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7961,7 +7961,7 @@
   {
    "name": "Blister Pack 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7973,7 +7973,7 @@
   {
    "name": "Blister Pack 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7985,7 +7985,7 @@
   {
    "name": "Blister Pack 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -7997,7 +7997,7 @@
   {
    "name": "Blister Pack 05",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8009,7 +8009,7 @@
   {
    "name": "Block Fence Foot",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8021,7 +8021,7 @@
   {
    "name": "Boat Ornament",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Vehicles\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8033,7 +8033,7 @@
   {
    "name": "Bolster",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8045,7 +8045,7 @@
   {
    "name": "Book 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8057,7 +8057,7 @@
   {
    "name": "Boomerang",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8069,7 +8069,7 @@
   {
    "name": "Border Fence",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8081,7 +8081,7 @@
   {
    "name": "Bottle Cap",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Armor & Clothing\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8093,7 +8093,7 @@
   {
    "name": "Bowl 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8105,7 +8105,7 @@
   {
    "name": "Bowl 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8117,7 +8117,7 @@
   {
    "name": "Bowling Pin",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Toys & Games\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8129,7 +8129,7 @@
   {
    "name": "Bowtie",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8141,7 +8141,7 @@
   {
    "name": "Bradawl",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8153,7 +8153,7 @@
   {
    "name": "Breastplate Armour 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Armor & Clothing\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8165,7 +8165,7 @@
   {
    "name": "Breastplate Armour 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Armor & Clothing\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8177,7 +8177,7 @@
   {
    "name": "Brick",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8189,7 +8189,7 @@
   {
    "name": "Brick Frog",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8201,7 +8201,7 @@
   {
    "name": "Brick Hammer",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8213,7 +8213,7 @@
   {
    "name": "Brick Trowel",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8225,7 +8225,7 @@
   {
    "name": "Bronze Age Sword",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8237,7 +8237,7 @@
   {
    "name": "Bronze Elliptical Leaf",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8249,7 +8249,7 @@
   {
    "name": "Broom",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8261,7 +8261,7 @@
   {
    "name": "Brush",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8273,7 +8273,7 @@
   {
    "name": "Bucket",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8285,7 +8285,7 @@
   {
    "name": "Bull Head Rail",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Creatures & Animals\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8297,7 +8297,7 @@
   {
    "name": "Bulldog Clip",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8309,7 +8309,7 @@
   {
    "name": "Butter Knife",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8321,7 +8321,7 @@
   {
    "name": "Button",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8333,7 +8333,7 @@
   {
    "name": "Cable Clip",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Electronics\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8345,7 +8345,7 @@
   {
    "name": "Cake Stand",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8357,7 +8357,7 @@
   {
    "name": "Candle Flame 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8369,7 +8369,7 @@
   {
    "name": "Candle Flame 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8381,7 +8381,7 @@
   {
    "name": "Candle Holder 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8393,7 +8393,7 @@
   {
    "name": "Candle Holder 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8405,7 +8405,7 @@
   {
    "name": "Candy Cane",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8417,7 +8417,7 @@
   {
    "name": "Cane",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8429,7 +8429,7 @@
   {
    "name": "Canned Food 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8441,7 +8441,7 @@
   {
    "name": "Canned Food 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8453,7 +8453,7 @@
   {
    "name": "Canned Food 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8465,7 +8465,7 @@
   {
    "name": "Cannon With Base",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8477,7 +8477,7 @@
   {
    "name": "Capping Half Round",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8489,7 +8489,7 @@
   {
    "name": "Capping Half Round Stop",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8501,7 +8501,7 @@
   {
    "name": "Capping Saddleback",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8513,7 +8513,7 @@
   {
    "name": "Capping Saddleback Stop",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8525,7 +8525,7 @@
   {
    "name": "Capsule",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8537,7 +8537,7 @@
   {
    "name": "Car Tire 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Vehicles\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8549,7 +8549,7 @@
   {
    "name": "Car Tire 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Vehicles\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8561,7 +8561,7 @@
   {
    "name": "Cardboard Box 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8573,7 +8573,7 @@
   {
    "name": "Cardboard Box 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8585,7 +8585,7 @@
   {
    "name": "Cardboard Produce Tray",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8597,7 +8597,7 @@
   {
    "name": "Cartoon Controller",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8609,7 +8609,7 @@
   {
    "name": "Cartoon Fish Bone",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8621,7 +8621,7 @@
   {
    "name": "Cartwheel",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8633,7 +8633,7 @@
   {
    "name": "Carved Bird Ornament",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Creatures & Animals\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8645,7 +8645,7 @@
   {
    "name": "Cast Iron Grate",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8657,7 +8657,7 @@
   {
    "name": "Cast Iron Log Burner",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8669,7 +8669,7 @@
   {
    "name": "Cast Iron Stove Door",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8681,7 +8681,7 @@
   {
    "name": "Cast Iron Tree Grate 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8693,7 +8693,7 @@
   {
    "name": "Cd",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8705,7 +8705,7 @@
   {
    "name": "Ceramic Urn",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8717,7 +8717,7 @@
   {
    "name": "Chain Link",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8729,7 +8729,7 @@
   {
    "name": "Champagne Cork",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8741,7 +8741,7 @@
   {
    "name": "Champion Podium",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8753,7 +8753,7 @@
   {
    "name": "Changing Room Bench",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8765,7 +8765,7 @@
   {
    "name": "Checkmark",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8777,7 +8777,7 @@
   {
    "name": "Cheeseburger",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8789,7 +8789,7 @@
   {
    "name": "Chest Of Drawers 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8801,7 +8801,7 @@
   {
    "name": "Chevron",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8813,7 +8813,7 @@
   {
    "name": "Chinese Coin",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8825,7 +8825,7 @@
   {
    "name": "Chisel",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8837,7 +8837,7 @@
   {
    "name": "Chocolate Bar",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8849,7 +8849,7 @@
   {
    "name": "Chopping Board",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8861,7 +8861,7 @@
   {
    "name": "Chunky Loafer",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8873,7 +8873,7 @@
   {
    "name": "Cigarette Bin",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8885,7 +8885,7 @@
   {
    "name": "Cigarette Packet",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8897,7 +8897,7 @@
   {
    "name": "Circuit Breaker",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Electronics\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8909,7 +8909,7 @@
   {
    "name": "Circular Barbell",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8921,7 +8921,7 @@
   {
    "name": "Clamp",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8933,7 +8933,7 @@
   {
    "name": "Classroom Door",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8945,7 +8945,7 @@
   {
    "name": "Cleaning Bottle 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8957,7 +8957,7 @@
   {
    "name": "Cleaning Bottle 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8969,7 +8969,7 @@
   {
    "name": "Cleaning Bottle 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8981,7 +8981,7 @@
   {
    "name": "Cleaning Bottle 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -8993,7 +8993,7 @@
   {
    "name": "Cleaning Spray",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9005,7 +9005,7 @@
   {
    "name": "Cleaning Trolley",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9017,7 +9017,7 @@
   {
    "name": "Cleaver",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9029,7 +9029,7 @@
   {
    "name": "Clipboard",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9041,7 +9041,7 @@
   {
    "name": "Clothes Hanger 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9053,7 +9053,7 @@
   {
    "name": "Clothes Hanger 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9065,7 +9065,7 @@
   {
    "name": "Clothes Peg",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9077,7 +9077,7 @@
   {
    "name": "Clothes Rail",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9089,7 +9089,7 @@
   {
    "name": "Clothing Tag 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9101,7 +9101,7 @@
   {
    "name": "Clothing Tag 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9113,7 +9113,7 @@
   {
    "name": "Clothing Tag 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9125,7 +9125,7 @@
   {
    "name": "Clothing Tag 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9137,7 +9137,7 @@
   {
    "name": "Clothing Tag 05",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9149,7 +9149,7 @@
   {
    "name": "Clothing Tag 06",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9161,7 +9161,7 @@
   {
    "name": "Clothing Tag 07",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9173,7 +9173,7 @@
   {
    "name": "Clothing Toggle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9185,7 +9185,7 @@
   {
    "name": "Co2 Cartridge",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9197,7 +9197,7 @@
   {
    "name": "Cocktail Glass",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9209,7 +9209,7 @@
   {
    "name": "Coffee Cup",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9221,7 +9221,7 @@
   {
    "name": "Coffee Table",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9233,7 +9233,7 @@
   {
    "name": "Coffee Table 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9245,7 +9245,7 @@
   {
    "name": "Coin Pile 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9257,7 +9257,7 @@
   {
    "name": "Colorado Barrier",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9269,7 +9269,7 @@
   {
    "name": "Column Leg Bench",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9281,7 +9281,7 @@
   {
    "name": "Comb",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9293,7 +9293,7 @@
   {
    "name": "Companion Set",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9305,7 +9305,7 @@
   {
    "name": "Compass Pouch",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9317,7 +9317,7 @@
   {
    "name": "Computer Keyboard",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Electronics\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9329,7 +9329,7 @@
   {
    "name": "Computer Mouse 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Electronics\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9341,7 +9341,7 @@
   {
    "name": "Computer Screen",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Electronics\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9353,7 +9353,7 @@
   {
    "name": "Computer Speaker",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Electronics\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9365,7 +9365,7 @@
   {
    "name": "Concave Trellis",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9377,7 +9377,7 @@
   {
    "name": "Concrete Block",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9389,7 +9389,7 @@
   {
    "name": "Concrete Round Planter",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9401,7 +9401,7 @@
   {
    "name": "Conical Arrow",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9413,7 +9413,7 @@
   {
    "name": "Conical Flask",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9425,7 +9425,7 @@
   {
    "name": "Control Knob",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9437,7 +9437,7 @@
   {
    "name": "Coping Wave",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9449,7 +9449,7 @@
   {
    "name": "Coping Wave Stop End",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9461,7 +9461,7 @@
   {
    "name": "Corner Shelf 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9473,7 +9473,7 @@
   {
    "name": "Corner Shelf 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9485,7 +9485,7 @@
   {
    "name": "Corner Shelf 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9497,7 +9497,7 @@
   {
    "name": "Cornice 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9509,7 +9509,7 @@
   {
    "name": "Cornice 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9521,7 +9521,7 @@
   {
    "name": "Cornice 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9533,7 +9533,7 @@
   {
    "name": "Cornice 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9545,7 +9545,7 @@
   {
    "name": "Cornice 05",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9557,7 +9557,7 @@
   {
    "name": "Cornice 06",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9569,7 +9569,7 @@
   {
    "name": "Cornice 07",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9581,7 +9581,7 @@
   {
    "name": "Cornice 08",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9593,7 +9593,7 @@
   {
    "name": "Cornice 09",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9605,7 +9605,7 @@
   {
    "name": "Corrugated Iron",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9617,7 +9617,7 @@
   {
    "name": "Cosmetic Tube",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9629,7 +9629,7 @@
   {
    "name": "Cotton Reel",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9641,7 +9641,7 @@
   {
    "name": "Craft Knife",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9653,7 +9653,7 @@
   {
    "name": "Crayon",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9665,7 +9665,7 @@
   {
    "name": "Credit Card",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Toys & Games\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9677,7 +9677,7 @@
   {
    "name": "Crescent Moon",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9689,7 +9689,7 @@
   {
    "name": "Cricket Bat",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9701,7 +9701,7 @@
   {
    "name": "Cricket Wicket",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9713,7 +9713,7 @@
   {
    "name": "Crowbar",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9725,7 +9725,7 @@
   {
    "name": "Crowd Control Barrier",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9737,7 +9737,7 @@
   {
    "name": "Crt Monitor",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Electronics\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9749,7 +9749,7 @@
   {
    "name": "Crystal",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9761,7 +9761,7 @@
   {
    "name": "Cubed Trellis",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9773,7 +9773,7 @@
   {
    "name": "Cupcake Baking Tray",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9785,7 +9785,7 @@
   {
    "name": "Cupcake Case",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9797,7 +9797,7 @@
   {
    "name": "Curved Stone Bench",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9809,7 +9809,7 @@
   {
    "name": "Curved Trellis",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9821,7 +9821,7 @@
   {
    "name": "Cushion 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9833,7 +9833,7 @@
   {
    "name": "Cushion 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9845,7 +9845,7 @@
   {
    "name": "Cycle Mid Stand",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9857,7 +9857,7 @@
   {
    "name": "Cycle Rack",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9869,7 +9869,7 @@
   {
    "name": "Cycle Stand",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9881,7 +9881,7 @@
   {
    "name": "D12 Dice",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Toys & Games\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9893,7 +9893,7 @@
   {
    "name": "D20 Dice",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Toys & Games\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9905,7 +9905,7 @@
   {
    "name": "D6 Dice",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Toys & Games\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9917,7 +9917,7 @@
   {
    "name": "D6 Rounded Dice",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Toys & Games\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9929,7 +9929,7 @@
   {
    "name": "D8 Dice",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Toys & Games\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9941,7 +9941,7 @@
   {
    "name": "Dagger",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9953,7 +9953,7 @@
   {
    "name": "Dart",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Toys & Games\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9965,7 +9965,7 @@
   {
    "name": "Dart Board",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Toys & Games\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9977,7 +9977,7 @@
   {
    "name": "Dashed Torus",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -9989,7 +9989,7 @@
   {
    "name": "Decanter",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10001,7 +10001,7 @@
   {
    "name": "Deck Chair",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10013,7 +10013,7 @@
   {
    "name": "Decorative Bollard 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10025,7 +10025,7 @@
   {
    "name": "Decorative Bollard 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10037,7 +10037,7 @@
   {
    "name": "Decorative Painting Frame 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10049,7 +10049,7 @@
   {
    "name": "Decorative Plate",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10061,7 +10061,7 @@
   {
    "name": "Decorative Shelf Bracket",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10073,7 +10073,7 @@
   {
    "name": "Deer Antler",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Creatures & Animals\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10085,7 +10085,7 @@
   {
    "name": "Deer Head",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Creatures & Animals\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10097,7 +10097,7 @@
   {
    "name": "Desk Calendar",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10109,7 +10109,7 @@
   {
    "name": "Desk Lamp",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10121,7 +10121,7 @@
   {
    "name": "Diamond",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10133,7 +10133,7 @@
   {
    "name": "Digger Bucket",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10145,7 +10145,7 @@
   {
    "name": "Dining Chair 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10157,7 +10157,7 @@
   {
    "name": "Dining Chair 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10169,7 +10169,7 @@
   {
    "name": "Dirt Pile 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10181,7 +10181,7 @@
   {
    "name": "Dish Sponge",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10193,7 +10193,7 @@
   {
    "name": "Dog Collar Tag",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Creatures & Animals\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10205,7 +10205,7 @@
   {
    "name": "Dog Food Bowl",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10217,7 +10217,7 @@
   {
    "name": "Dome",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10229,7 +10229,7 @@
   {
    "name": "Door 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10241,7 +10241,7 @@
   {
    "name": "Door 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10253,7 +10253,7 @@
   {
    "name": "Door 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10265,7 +10265,7 @@
   {
    "name": "Door 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10277,7 +10277,7 @@
   {
    "name": "Door 05",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10289,7 +10289,7 @@
   {
    "name": "Door 06",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10301,7 +10301,7 @@
   {
    "name": "Door Handle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10313,7 +10313,7 @@
   {
    "name": "Door Hanger",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10325,7 +10325,7 @@
   {
    "name": "Door Knob",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10337,7 +10337,7 @@
   {
    "name": "Door Stop Wedge",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10349,7 +10349,7 @@
   {
    "name": "Double Coat Hook 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10361,7 +10361,7 @@
   {
    "name": "Dragonfly Wings",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10373,7 +10373,7 @@
   {
    "name": "Drain Cover 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10385,7 +10385,7 @@
   {
    "name": "Drainage Grate 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10397,7 +10397,7 @@
   {
    "name": "Drawer Key Hole",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10409,7 +10409,7 @@
   {
    "name": "Drink Carton 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10421,7 +10421,7 @@
   {
    "name": "Drinking Fountain",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10433,7 +10433,7 @@
   {
    "name": "Drum Stick",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Music & Instruments\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10445,7 +10445,7 @@
   {
    "name": "Dynamite Stick",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10457,7 +10457,7 @@
   {
    "name": "Dynamite Stick Bundle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10469,7 +10469,7 @@
   {
    "name": "Egg Cup",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10481,7 +10481,7 @@
   {
    "name": "Eighth Note",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10493,7 +10493,7 @@
   {
    "name": "Electric Guitar",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Music & Instruments\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10505,7 +10505,7 @@
   {
    "name": "Elephant Jigsaw Ornament",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10517,7 +10517,7 @@
   {
    "name": "English Bond Brick",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10529,7 +10529,7 @@
   {
    "name": "Estate Sign 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10541,7 +10541,7 @@
   {
    "name": "Estate Sign 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10553,7 +10553,7 @@
   {
    "name": "Exclamation Mark",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10565,7 +10565,7 @@
   {
    "name": "Eye Drop Bottle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10577,7 +10577,7 @@
   {
    "name": "Fan Trellis",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10589,7 +10589,7 @@
   {
    "name": "Feather",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Creatures & Animals\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10601,7 +10601,7 @@
   {
    "name": "Fencing Pin",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10613,7 +10613,7 @@
   {
    "name": "Filing Cabinet",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10625,7 +10625,7 @@
   {
    "name": "Finger Post Sign 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10637,7 +10637,7 @@
   {
    "name": "Finger Post Sign 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10649,7 +10649,7 @@
   {
    "name": "Finger Post Sign 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10661,7 +10661,7 @@
   {
    "name": "Fire Alarm Bell",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Music & Instruments\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10673,7 +10673,7 @@
   {
    "name": "Fire Alarm System",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10685,7 +10685,7 @@
   {
    "name": "Fireplace Brush",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10697,7 +10697,7 @@
   {
    "name": "Fireplace Poker",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10709,7 +10709,7 @@
   {
    "name": "Fireplace Shovel",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10721,7 +10721,7 @@
   {
    "name": "Fireplace Tongs",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10733,7 +10733,7 @@
   {
    "name": "Firewood 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10745,7 +10745,7 @@
   {
    "name": "Fish Slice",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10757,7 +10757,7 @@
   {
    "name": "Fishing Hook 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10769,7 +10769,7 @@
   {
    "name": "Flan Tin",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10781,7 +10781,7 @@
   {
    "name": "Flat Bottom Rail",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10793,7 +10793,7 @@
   {
    "name": "Flat Bottomed Flask",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10805,7 +10805,7 @@
   {
    "name": "Flat Head Screw",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10817,7 +10817,7 @@
   {
    "name": "Flat Head Screwdriver",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10829,7 +10829,7 @@
   {
    "name": "Flemish Bond Brick",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10841,7 +10841,7 @@
   {
    "name": "Flint Tool",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10853,7 +10853,7 @@
   {
    "name": "Flower Pot",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10865,7 +10865,7 @@
   {
    "name": "Flower Vase 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10877,7 +10877,7 @@
   {
    "name": "Flower Vase 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10889,7 +10889,7 @@
   {
    "name": "Fluorescent Light Fitting",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10901,7 +10901,7 @@
   {
    "name": "Fluted Column Cap",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Armor & Clothing\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10913,7 +10913,7 @@
   {
    "name": "Fluted Column Mid",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10925,7 +10925,7 @@
   {
    "name": "Foam Finger",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10937,7 +10937,7 @@
   {
    "name": "Folded Chair 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10949,7 +10949,7 @@
   {
    "name": "Folded Chair 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10961,7 +10961,7 @@
   {
    "name": "Folding Chair 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10973,7 +10973,7 @@
   {
    "name": "Folding Chair 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10985,7 +10985,7 @@
   {
    "name": "Folding Stool 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -10997,7 +10997,7 @@
   {
    "name": "Food Prep Table",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11009,7 +11009,7 @@
   {
    "name": "Food Prep Table Corner",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11021,7 +11021,7 @@
   {
    "name": "Fork",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11033,7 +11033,7 @@
   {
    "name": "Forked Tongue",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11045,7 +11045,7 @@
   {
    "name": "Framed Poster",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11057,7 +11057,7 @@
   {
    "name": "Freezer Block",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11069,7 +11069,7 @@
   {
    "name": "Fretboard",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11081,7 +11081,7 @@
   {
    "name": "Fruit Bowl 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11093,7 +11093,7 @@
   {
    "name": "Funnel",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11105,7 +11105,7 @@
   {
    "name": "Fuse Box",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11117,7 +11117,7 @@
   {
    "name": "G Clamp",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11129,7 +11129,7 @@
   {
    "name": "Game Cartridge 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11141,7 +11141,7 @@
   {
    "name": "Garden Bench 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11153,7 +11153,7 @@
   {
    "name": "Garden Edging Tool",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11165,7 +11165,7 @@
   {
    "name": "Garden Fire Pit",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11177,7 +11177,7 @@
   {
    "name": "Garden Fork",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11189,7 +11189,7 @@
   {
    "name": "Garden Obelisk 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11201,7 +11201,7 @@
   {
    "name": "Garden Obelisk 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11213,7 +11213,7 @@
   {
    "name": "Gas Canister",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11225,7 +11225,7 @@
   {
    "name": "Gem",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11237,7 +11237,7 @@
   {
    "name": "Gladius 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11249,7 +11249,7 @@
   {
    "name": "Gladius 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11261,7 +11261,7 @@
   {
    "name": "Glass Jar 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11273,7 +11273,7 @@
   {
    "name": "Glasses Frames 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11285,7 +11285,7 @@
   {
    "name": "Glider",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11297,7 +11297,7 @@
   {
    "name": "Globe",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11309,7 +11309,7 @@
   {
    "name": "Glockenspiel",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11321,7 +11321,7 @@
   {
    "name": "Glowstick",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11333,7 +11333,7 @@
   {
    "name": "Goblet 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11345,7 +11345,7 @@
   {
    "name": "Goblet 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11357,7 +11357,7 @@
   {
    "name": "Goblet 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11369,7 +11369,7 @@
   {
    "name": "Goblet 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11381,7 +11381,7 @@
   {
    "name": "Goblet 05",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11393,7 +11393,7 @@
   {
    "name": "Gold Ring",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11405,7 +11405,7 @@
   {
    "name": "Golf Tee",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Toys & Games\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11417,7 +11417,7 @@
   {
    "name": "Greek Column 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11429,7 +11429,7 @@
   {
    "name": "Greek Column 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11441,7 +11441,7 @@
   {
    "name": "Greek Cup",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11453,7 +11453,7 @@
   {
    "name": "Greek Spear Head 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11465,7 +11465,7 @@
   {
    "name": "Greek Spear Head 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11477,7 +11477,7 @@
   {
    "name": "Greek Vase 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11489,7 +11489,7 @@
   {
    "name": "Griddle Spatula",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11501,7 +11501,7 @@
   {
    "name": "Guitar Stand",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Music & Instruments\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11513,7 +11513,7 @@
   {
    "name": "Hacksaw 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11525,7 +11525,7 @@
   {
    "name": "Hacksaw 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11537,7 +11537,7 @@
   {
    "name": "Halberd",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11549,7 +11549,7 @@
   {
    "name": "Half Note",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11561,7 +11561,7 @@
   {
    "name": "Half Round Ridge Tile",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11573,7 +11573,7 @@
   {
    "name": "Hammer",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11585,7 +11585,7 @@
   {
    "name": "Hand Bell",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Music & Instruments\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11597,7 +11597,7 @@
   {
    "name": "Hand Fork",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11609,7 +11609,7 @@
   {
    "name": "Hand Mirror",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11621,7 +11621,7 @@
   {
    "name": "Hand Rake",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11633,7 +11633,7 @@
   {
    "name": "Hand Strengthener",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11645,7 +11645,7 @@
   {
    "name": "Headstone 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11657,7 +11657,7 @@
   {
    "name": "Headstone 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11669,7 +11669,7 @@
   {
    "name": "Headstone 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11681,7 +11681,7 @@
   {
    "name": "Headstone 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11693,7 +11693,7 @@
   {
    "name": "Headstone 05",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11705,7 +11705,7 @@
   {
    "name": "Health",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11717,7 +11717,7 @@
   {
    "name": "Heritage Bird Bath",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Creatures & Animals\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11729,7 +11729,7 @@
   {
    "name": "Hex Dumbbell",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11741,7 +11741,7 @@
   {
    "name": "Hex Tile",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11753,7 +11753,7 @@
   {
    "name": "Hexagon Paving Tile",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11765,7 +11765,7 @@
   {
    "name": "Hexagon Shelf",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11777,7 +11777,7 @@
   {
    "name": "Hexagonal Planter",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11789,7 +11789,7 @@
   {
    "name": "Honeycomb Shelving",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11801,7 +11801,7 @@
   {
    "name": "Honk Honk Horn",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Creatures & Animals\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11813,7 +11813,7 @@
   {
    "name": "Horn",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Creatures & Animals\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11825,7 +11825,7 @@
   {
    "name": "Horse Bit",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Creatures & Animals\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11837,7 +11837,7 @@
   {
    "name": "Horse Shoe",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Armor & Clothing\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11849,7 +11849,7 @@
   {
    "name": "Hose Scrap 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11861,7 +11861,7 @@
   {
    "name": "Ice Cream Stick",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11873,7 +11873,7 @@
   {
    "name": "Ice Lolly",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11885,7 +11885,7 @@
   {
    "name": "Incense Holder",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11897,7 +11897,7 @@
   {
    "name": "Industrial Shelving 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11909,7 +11909,7 @@
   {
    "name": "Industrial Shelving 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11921,7 +11921,7 @@
   {
    "name": "Industrial Staircase 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11933,7 +11933,7 @@
   {
    "name": "Ingot",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11945,7 +11945,7 @@
   {
    "name": "Insect Leg",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11957,7 +11957,7 @@
   {
    "name": "Interpretation Panel 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11969,7 +11969,7 @@
   {
    "name": "Iron Brazier 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11981,7 +11981,7 @@
   {
    "name": "Iron Brazier 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -11993,7 +11993,7 @@
   {
    "name": "Iron Brazier 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12005,7 +12005,7 @@
   {
    "name": "Iron Chandelier",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12017,7 +12017,7 @@
   {
    "name": "Iron Flambeaux 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12029,7 +12029,7 @@
   {
    "name": "Iron Wall Light",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12041,7 +12041,7 @@
   {
    "name": "Ivy Leaf",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12053,7 +12053,7 @@
   {
    "name": "Japanese Stone Lantern 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12065,7 +12065,7 @@
   {
    "name": "Japanese Stone Lantern 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12077,7 +12077,7 @@
   {
    "name": "Jersey Barrier",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12089,7 +12089,7 @@
   {
    "name": "Jigsaw Piece",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12101,7 +12101,7 @@
   {
    "name": "Kakute",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12113,7 +12113,7 @@
   {
    "name": "Kalimba",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12125,7 +12125,7 @@
   {
    "name": "Kalimba Tuning Hammer",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12137,7 +12137,7 @@
   {
    "name": "Kerb Bullnosed 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12149,7 +12149,7 @@
   {
    "name": "Kerb Bullnosed 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12161,7 +12161,7 @@
   {
    "name": "Kerb Camel",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12173,7 +12173,7 @@
   {
    "name": "Kerb Channel 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12185,7 +12185,7 @@
   {
    "name": "Kerb Channel 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12197,7 +12197,7 @@
   {
    "name": "Kerb Channel 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12209,7 +12209,7 @@
   {
    "name": "Kerb Half Battered",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12221,7 +12221,7 @@
   {
    "name": "Kerb Half Battered Flat",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12233,7 +12233,7 @@
   {
    "name": "Kerb Hgv",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12245,7 +12245,7 @@
   {
    "name": "Kerb Splayed",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12257,7 +12257,7 @@
   {
    "name": "Key",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12269,7 +12269,7 @@
   {
    "name": "Key 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12281,7 +12281,7 @@
   {
    "name": "Keyboard Layout",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Electronics\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12293,7 +12293,7 @@
   {
    "name": "Keycap",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12305,7 +12305,7 @@
   {
    "name": "Khukuri",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12317,7 +12317,7 @@
   {
    "name": "Kitchen Knife",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12329,7 +12329,7 @@
   {
    "name": "Kitchen Tap",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12341,7 +12341,7 @@
   {
    "name": "Knife",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12353,7 +12353,7 @@
   {
    "name": "Knuckle Duster",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12365,7 +12365,7 @@
   {
    "name": "Knurled Knob Dial",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12377,7 +12377,7 @@
   {
    "name": "Ladle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12389,7 +12389,7 @@
   {
    "name": "Lamp Post 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12401,7 +12401,7 @@
   {
    "name": "Large Pallet",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12413,7 +12413,7 @@
   {
    "name": "Lemon",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12425,7 +12425,7 @@
   {
    "name": "Letter Rack 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12437,7 +12437,7 @@
   {
    "name": "Letter Rack 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12449,7 +12449,7 @@
   {
    "name": "Library Stool",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12461,7 +12461,7 @@
   {
    "name": "Light Switch",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Electronics\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12473,7 +12473,7 @@
   {
    "name": "Lightbulb",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12485,7 +12485,7 @@
   {
    "name": "Lighter 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12497,7 +12497,7 @@
   {
    "name": "Lightning Bolt",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12509,7 +12509,7 @@
   {
    "name": "Lily Pad 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12521,7 +12521,7 @@
   {
    "name": "Lily Pad 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12533,7 +12533,7 @@
   {
    "name": "Lipstick",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12545,7 +12545,7 @@
   {
    "name": "Loading Icon 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12557,7 +12557,7 @@
   {
    "name": "Loading Icon 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12569,7 +12569,7 @@
   {
    "name": "Loading Icon 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12581,7 +12581,7 @@
   {
    "name": "Loading Icon 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12593,7 +12593,7 @@
   {
    "name": "Loading Icon 05",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12605,7 +12605,7 @@
   {
    "name": "Loading Icon 06",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12617,7 +12617,7 @@
   {
    "name": "Loading Icon 07",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12629,7 +12629,7 @@
   {
    "name": "Loading Icon 08",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12641,7 +12641,7 @@
   {
    "name": "Loading Icon 09",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12653,7 +12653,7 @@
   {
    "name": "Loaf Tin",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12665,7 +12665,7 @@
   {
    "name": "Location Marker",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12677,7 +12677,7 @@
   {
    "name": "Locker",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12689,7 +12689,7 @@
   {
    "name": "Log 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12701,7 +12701,7 @@
   {
    "name": "Log 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12713,7 +12713,7 @@
   {
    "name": "Log 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12725,7 +12725,7 @@
   {
    "name": "Lollipop",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12737,7 +12737,7 @@
   {
    "name": "Lounge Chair 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12749,7 +12749,7 @@
   {
    "name": "Luggage Tag",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12761,7 +12761,7 @@
   {
    "name": "Mace",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12773,7 +12773,7 @@
   {
    "name": "Magnet",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12785,7 +12785,7 @@
   {
    "name": "Magnifying Glass",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12797,7 +12797,7 @@
   {
    "name": "Medieval Bookcase",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12809,7 +12809,7 @@
   {
    "name": "Menu Stand",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12821,7 +12821,7 @@
   {
    "name": "Mesh Bin",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12833,7 +12833,7 @@
   {
    "name": "Metal Grating 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12845,7 +12845,7 @@
   {
    "name": "Metal Grating 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12857,7 +12857,7 @@
   {
    "name": "Metal Grating 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12869,7 +12869,7 @@
   {
    "name": "Metal Tray",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12881,7 +12881,7 @@
   {
    "name": "Metal Twist 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12893,7 +12893,7 @@
   {
    "name": "Metal Twist 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12905,7 +12905,7 @@
   {
    "name": "Metal Twist 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12917,7 +12917,7 @@
   {
    "name": "Metal Twist 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12929,7 +12929,7 @@
   {
    "name": "Microwave",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12941,7 +12941,7 @@
   {
    "name": "Mid Century Starburst",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12953,7 +12953,7 @@
   {
    "name": "Military Crate 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12965,7 +12965,7 @@
   {
    "name": "Military Dog Tag",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Creatures & Animals\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12977,7 +12977,7 @@
   {
    "name": "Milk Jug",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -12989,7 +12989,7 @@
   {
    "name": "Mini Ramp",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13001,7 +13001,7 @@
   {
    "name": "Mop Bucket",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13013,7 +13013,7 @@
   {
    "name": "Mortar And Pestle 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13025,7 +13025,7 @@
   {
    "name": "Mortar And Pestle 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13037,7 +13037,7 @@
   {
    "name": "Moulded Breeze Block 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13049,7 +13049,7 @@
   {
    "name": "Moulded Breeze Block 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13061,7 +13061,7 @@
   {
    "name": "Moulded Breeze Block 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13073,7 +13073,7 @@
   {
    "name": "Moulded Breeze Block 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13085,7 +13085,7 @@
   {
    "name": "Mounted Picture Frame",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13097,7 +13097,7 @@
   {
    "name": "Mug",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13109,7 +13109,7 @@
   {
    "name": "Mushroom 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13121,7 +13121,7 @@
   {
    "name": "Mushroom 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13133,7 +13133,7 @@
   {
    "name": "Mushroom 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13145,7 +13145,7 @@
   {
    "name": "Mushroom 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13157,7 +13157,7 @@
   {
    "name": "Name Plaque",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13169,7 +13169,7 @@
   {
    "name": "Neck Plate Armour",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Armor & Clothing\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13181,7 +13181,7 @@
   {
    "name": "Newel Cap 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Armor & Clothing\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13193,7 +13193,7 @@
   {
    "name": "Newel Cap 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Armor & Clothing\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13205,7 +13205,7 @@
   {
    "name": "Newel Cap 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Armor & Clothing\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13217,7 +13217,7 @@
   {
    "name": "Newel Cap 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Armor & Clothing\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13229,7 +13229,7 @@
   {
    "name": "Noticeboard",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13241,7 +13241,7 @@
   {
    "name": "Obelisk 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13253,7 +13253,7 @@
   {
    "name": "Obelisk 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13265,7 +13265,7 @@
   {
    "name": "Octagonal Dish",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13277,7 +13277,7 @@
   {
    "name": "Office Chair",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13289,7 +13289,7 @@
   {
    "name": "Office Cubicle Wall",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13301,7 +13301,7 @@
   {
    "name": "Office Desk",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13313,7 +13313,7 @@
   {
    "name": "Office Drawer Handle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13325,7 +13325,7 @@
   {
    "name": "Office Folder",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13337,7 +13337,7 @@
   {
    "name": "Oil Barrel",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13349,7 +13349,7 @@
   {
    "name": "Organizer Drawers 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13361,7 +13361,7 @@
   {
    "name": "Organizer Drawers 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13373,7 +13373,7 @@
   {
    "name": "Ornate Bench",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13385,7 +13385,7 @@
   {
    "name": "Ornate Key",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13397,7 +13397,7 @@
   {
    "name": "Outdoor Bin",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13409,7 +13409,7 @@
   {
    "name": "Outdoor Donation Box",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13421,7 +13421,7 @@
   {
    "name": "Outdoor Folding Chair",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13433,7 +13433,7 @@
   {
    "name": "Outdoor Sign",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13445,7 +13445,7 @@
   {
    "name": "Outdoor Wall Light",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13457,7 +13457,7 @@
   {
    "name": "Oven Glove",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Armor & Clothing\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13469,7 +13469,7 @@
   {
    "name": "Packing Peanuts",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13481,7 +13481,7 @@
   {
    "name": "Padlock",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13493,7 +13493,7 @@
   {
    "name": "Pagoda Arch",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13505,7 +13505,7 @@
   {
    "name": "Pagoda Pillar",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13517,7 +13517,7 @@
   {
    "name": "Paint Roller",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13529,7 +13529,7 @@
   {
    "name": "Paint Stripper Can",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13541,7 +13541,7 @@
   {
    "name": "Paint Tube 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13553,7 +13553,7 @@
   {
    "name": "Paint Tube 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13565,7 +13565,7 @@
   {
    "name": "Paintbrush 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13577,7 +13577,7 @@
   {
    "name": "Paintbrush 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13589,7 +13589,7 @@
   {
    "name": "Paintbrush 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13601,7 +13601,7 @@
   {
    "name": "Painters Palette 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13613,7 +13613,7 @@
   {
    "name": "Painting Frame 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13625,7 +13625,7 @@
   {
    "name": "Painting Frame 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13637,7 +13637,7 @@
   {
    "name": "Painting Frame 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13649,7 +13649,7 @@
   {
    "name": "Painting Frame 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13661,7 +13661,7 @@
   {
    "name": "Painting Frame 05",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13673,7 +13673,7 @@
   {
    "name": "Painting Frame 06",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13685,7 +13685,7 @@
   {
    "name": "Painting Frame 07",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13697,7 +13697,7 @@
   {
    "name": "Painting Frame 08",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13709,7 +13709,7 @@
   {
    "name": "Painting Frame 09",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13721,7 +13721,7 @@
   {
    "name": "Painting Frame 10",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13733,7 +13733,7 @@
   {
    "name": "Painting Frame 11",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13745,7 +13745,7 @@
   {
    "name": "Painting Frame 12",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13757,7 +13757,7 @@
   {
    "name": "Pallet",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13769,7 +13769,7 @@
   {
    "name": "Pallet Box 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13781,7 +13781,7 @@
   {
    "name": "Pallet Of Pipes",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13793,7 +13793,7 @@
   {
    "name": "Paper Bag",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13805,7 +13805,7 @@
   {
    "name": "Paper Pad",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13817,7 +13817,7 @@
   {
    "name": "Paper Tidy",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13829,7 +13829,7 @@
   {
    "name": "Paperclip",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13841,7 +13841,7 @@
   {
    "name": "Park Bench",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13853,7 +13853,7 @@
   {
    "name": "Pastry Brush",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13865,7 +13865,7 @@
   {
    "name": "Pavement Sign",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13877,7 +13877,7 @@
   {
    "name": "Paving Circle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13889,7 +13889,7 @@
   {
    "name": "Peace Sign",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13901,7 +13901,7 @@
   {
    "name": "Pedestrian Guardrail",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13913,7 +13913,7 @@
   {
    "name": "Peg Person",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13925,7 +13925,7 @@
   {
    "name": "Pen 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13937,7 +13937,7 @@
   {
    "name": "Pen Tidy",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13949,7 +13949,7 @@
   {
    "name": "Pencil",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13961,7 +13961,7 @@
   {
    "name": "Petri Dish",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13973,7 +13973,7 @@
   {
    "name": "Petri Dish Lid",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13985,7 +13985,7 @@
   {
    "name": "Photo Frame",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -13997,7 +13997,7 @@
   {
    "name": "Piano",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Music & Instruments\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14009,7 +14009,7 @@
   {
    "name": "Pick Axe",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14021,7 +14021,7 @@
   {
    "name": "Pill 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14033,7 +14033,7 @@
   {
    "name": "Pill 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14045,7 +14045,7 @@
   {
    "name": "Pill Bottle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14057,7 +14057,7 @@
   {
    "name": "Pin",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14069,7 +14069,7 @@
   {
    "name": "Pinball Flipper",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14081,7 +14081,7 @@
   {
    "name": "Pipette",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14093,7 +14093,7 @@
   {
    "name": "Pizza",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14105,7 +14105,7 @@
   {
    "name": "Pizza Box",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14117,7 +14117,7 @@
   {
    "name": "Pizza Slice",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14129,7 +14129,7 @@
   {
    "name": "Plaque 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14141,7 +14141,7 @@
   {
    "name": "Plaster",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14153,7 +14153,7 @@
   {
    "name": "Plasterers Float 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14165,7 +14165,7 @@
   {
    "name": "Plasterers Float 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14177,7 +14177,7 @@
   {
    "name": "Plastic Bottle 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14189,7 +14189,7 @@
   {
    "name": "Plate",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14201,7 +14201,7 @@
   {
    "name": "Plectrum",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14213,7 +14213,7 @@
   {
    "name": "Pliers",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14225,7 +14225,7 @@
   {
    "name": "Plinth",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14237,7 +14237,7 @@
   {
    "name": "Plug Socket",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14249,7 +14249,7 @@
   {
    "name": "Plumbers Pipe",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14261,7 +14261,7 @@
   {
    "name": "Plunger",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14273,7 +14273,7 @@
   {
    "name": "Pool Ladder 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14285,7 +14285,7 @@
   {
    "name": "Pool Ladder 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14297,7 +14297,7 @@
   {
    "name": "Poster",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14309,7 +14309,7 @@
   {
    "name": "Potato Waffle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14321,7 +14321,7 @@
   {
    "name": "Potion Bottle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14333,7 +14333,7 @@
   {
    "name": "Power Icon",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14345,7 +14345,7 @@
   {
    "name": "Product Box",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14357,7 +14357,7 @@
   {
    "name": "Propeller 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Vehicles\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14369,7 +14369,7 @@
   {
    "name": "Pub Stool",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14381,7 +14381,7 @@
   {
    "name": "Push Pin",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14393,7 +14393,7 @@
   {
    "name": "Pyramid Spike",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14405,7 +14405,7 @@
   {
    "name": "Quad Twist",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14417,7 +14417,7 @@
   {
    "name": "Quarter Note",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14429,7 +14429,7 @@
   {
    "name": "Question Mark",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14441,7 +14441,7 @@
   {
    "name": "Radioactive Symbol",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14453,7 +14453,7 @@
   {
    "name": "Raised Plaque",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14465,7 +14465,7 @@
   {
    "name": "Rattlesnake Head",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Creatures & Animals\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14477,7 +14477,7 @@
   {
    "name": "Razor Blade",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14489,7 +14489,7 @@
   {
    "name": "Rectangular Planter",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14501,7 +14501,7 @@
   {
    "name": "Reticle 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14513,7 +14513,7 @@
   {
    "name": "Reticle 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14525,7 +14525,7 @@
   {
    "name": "Reticle 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14537,7 +14537,7 @@
   {
    "name": "Reticle 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14549,7 +14549,7 @@
   {
    "name": "Retro Computer",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Electronics\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14561,7 +14561,7 @@
   {
    "name": "Retro Tv",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Electronics\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14573,7 +14573,7 @@
   {
    "name": "Rhino Large Horn",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Creatures & Animals\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14585,7 +14585,7 @@
   {
    "name": "Rhino Small Horn",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Creatures & Animals\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14597,7 +14597,7 @@
   {
    "name": "Rice Spoon",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14609,7 +14609,7 @@
   {
    "name": "Ridge Tile 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14621,7 +14621,7 @@
   {
    "name": "Ridge Tile 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14633,7 +14633,7 @@
   {
    "name": "Ridge Tile 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14645,7 +14645,7 @@
   {
    "name": "Ridge Tile 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14657,7 +14657,7 @@
   {
    "name": "Ridge Tile 05",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14669,7 +14669,7 @@
   {
    "name": "Ridge Tile 06",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14681,7 +14681,7 @@
   {
    "name": "Ridge Tile 07",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14693,7 +14693,7 @@
   {
    "name": "Ridge Tile 08",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14705,7 +14705,7 @@
   {
    "name": "Ridge Tile 09",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14717,7 +14717,7 @@
   {
    "name": "Ridge Tile 10",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14729,7 +14729,7 @@
   {
    "name": "Ring",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14741,7 +14741,7 @@
   {
    "name": "Ring Binder",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14753,7 +14753,7 @@
   {
    "name": "Ring Pull",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14765,7 +14765,7 @@
   {
    "name": "Roasting Tray",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14777,7 +14777,7 @@
   {
    "name": "Rock 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14789,7 +14789,7 @@
   {
    "name": "Rock 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14801,7 +14801,7 @@
   {
    "name": "Rock 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14813,7 +14813,7 @@
   {
    "name": "Rock 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14825,7 +14825,7 @@
   {
    "name": "Rocket Toy 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Toys & Games\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14837,7 +14837,7 @@
   {
    "name": "Rocket Toy 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Toys & Games\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14849,7 +14849,7 @@
   {
    "name": "Roll Top Chimney",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14861,7 +14861,7 @@
   {
    "name": "Roller Chain",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14873,7 +14873,7 @@
   {
    "name": "Rolling Pin",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14885,7 +14885,7 @@
   {
    "name": "Roman Interlocking Tile",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14897,7 +14897,7 @@
   {
    "name": "Roman Pottery 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14909,7 +14909,7 @@
   {
    "name": "Roman Pottery 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14921,7 +14921,7 @@
   {
    "name": "Roman Pottery 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14933,7 +14933,7 @@
   {
    "name": "Roman Pottery 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14945,7 +14945,7 @@
   {
    "name": "Roman Pottery 05",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14957,7 +14957,7 @@
   {
    "name": "Roman Pottery 06",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14969,7 +14969,7 @@
   {
    "name": "Roman Pottery 07",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14981,7 +14981,7 @@
   {
    "name": "Roman Pottery 08",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -14993,7 +14993,7 @@
   {
    "name": "Roman Pottery 09",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15005,7 +15005,7 @@
   {
    "name": "Roman Pottery 10",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15017,7 +15017,7 @@
   {
    "name": "Roman Pottery 11",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15029,7 +15029,7 @@
   {
    "name": "Rope Twist 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15041,7 +15041,7 @@
   {
    "name": "Rope Twist 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15053,7 +15053,7 @@
   {
    "name": "Rope Twist 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15065,7 +15065,7 @@
   {
    "name": "Rope Twist 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15077,7 +15077,7 @@
   {
    "name": "Rope Twist 05",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15089,7 +15089,7 @@
   {
    "name": "Rope Twist 06",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15101,7 +15101,7 @@
   {
    "name": "Rope Twist 07",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15113,7 +15113,7 @@
   {
    "name": "Rope Twist 08",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15125,7 +15125,7 @@
   {
    "name": "Rose Arch",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15137,7 +15137,7 @@
   {
    "name": "Round Gem",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15149,7 +15149,7 @@
   {
    "name": "Round Handrail Bracket",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15161,7 +15161,7 @@
   {
    "name": "Round Shield",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15173,7 +15173,7 @@
   {
    "name": "Rounded Concrete Bollard",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15185,7 +15185,7 @@
   {
    "name": "Rounded Door",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15197,7 +15197,7 @@
   {
    "name": "Rounded Picket Fence",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15209,7 +15209,7 @@
   {
    "name": "Rounded Speech Bubble",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15221,7 +15221,7 @@
   {
    "name": "Rounded Wedge",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15233,7 +15233,7 @@
   {
    "name": "Rugby Goal",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15245,7 +15245,7 @@
   {
    "name": "Rustic Wood Hand Basket",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15257,7 +15257,7 @@
   {
    "name": "Sai",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15269,7 +15269,7 @@
   {
    "name": "Salloon Door 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15281,7 +15281,7 @@
   {
    "name": "Salloon Door 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15293,7 +15293,7 @@
   {
    "name": "Salmon Fillet",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15305,7 +15305,7 @@
   {
    "name": "Salmon Steak",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15317,7 +15317,7 @@
   {
    "name": "Salt Shaker",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15329,7 +15329,7 @@
   {
    "name": "Sauce Bottle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15341,7 +15341,7 @@
   {
    "name": "Saw",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15353,7 +15353,7 @@
   {
    "name": "Saw Blade",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15365,7 +15365,7 @@
   {
    "name": "Saw Horse",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15377,7 +15377,7 @@
   {
    "name": "Screw End",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15389,7 +15389,7 @@
   {
    "name": "Screw Head",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15401,7 +15401,7 @@
   {
    "name": "Scroll 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15413,7 +15413,7 @@
   {
    "name": "Scroll 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15425,7 +15425,7 @@
   {
    "name": "Scroll 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15437,7 +15437,7 @@
   {
    "name": "Scroll 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15449,7 +15449,7 @@
   {
    "name": "Service Bell",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Music & Instruments\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15461,7 +15461,7 @@
   {
    "name": "Settings Icon",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15473,7 +15473,7 @@
   {
    "name": "Sheepskin Boot",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Armor & Clothing\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15485,7 +15485,7 @@
   {
    "name": "Shell 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15497,7 +15497,7 @@
   {
    "name": "Shell 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15509,7 +15509,7 @@
   {
    "name": "Shelving Unit",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15521,7 +15521,7 @@
   {
    "name": "Shield Icon",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15533,7 +15533,7 @@
   {
    "name": "Ship Wheel",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Vehicles\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15545,7 +15545,7 @@
   {
    "name": "Shoelace End",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15557,7 +15557,7 @@
   {
    "name": "Short Sword",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15569,7 +15569,7 @@
   {
    "name": "Shovel 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15581,7 +15581,7 @@
   {
    "name": "Shovel Handle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15593,7 +15593,7 @@
   {
    "name": "Signet Ring 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15605,7 +15605,7 @@
   {
    "name": "Silicone Spatula",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15617,7 +15617,7 @@
   {
    "name": "Sink Drain 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15629,7 +15629,7 @@
   {
    "name": "Sink Drain 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15641,7 +15641,7 @@
   {
    "name": "Skateboard Deck",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Toys & Games\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15653,7 +15653,7 @@
   {
    "name": "Skateboard Setup",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Toys & Games\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15665,7 +15665,7 @@
   {
    "name": "Skateboard Truck",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Toys & Games\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15677,7 +15677,7 @@
   {
    "name": "Skateboard Wheel",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Toys & Games\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15689,7 +15689,7 @@
   {
    "name": "Skiff 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15701,7 +15701,7 @@
   {
    "name": "Skip",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15713,7 +15713,7 @@
   {
    "name": "Skirted Knob Dial",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15725,7 +15725,7 @@
   {
    "name": "Skirting Chamfer",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15737,7 +15737,7 @@
   {
    "name": "Skirting Ogee",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15749,7 +15749,7 @@
   {
    "name": "Skirting Torus",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15761,7 +15761,7 @@
   {
    "name": "Skull No Teeth",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Creatures & Animals\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15773,7 +15773,7 @@
   {
    "name": "Sledgehammer",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15785,7 +15785,7 @@
   {
    "name": "Slice Of Bread",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15797,7 +15797,7 @@
   {
    "name": "Small Banner",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15809,7 +15809,7 @@
   {
    "name": "Small Garden Bridge",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15821,7 +15821,7 @@
   {
    "name": "Small Pallet",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15833,7 +15833,7 @@
   {
    "name": "Small Plastic Chair",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15845,7 +15845,7 @@
   {
    "name": "Smoke Detector",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15857,7 +15857,7 @@
   {
    "name": "Snowflake 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15869,7 +15869,7 @@
   {
    "name": "Snowflake 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15881,7 +15881,7 @@
   {
    "name": "Soap Dispenser",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15893,7 +15893,7 @@
   {
    "name": "Soda Can",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15905,7 +15905,7 @@
   {
    "name": "Spanner",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15917,7 +15917,7 @@
   {
    "name": "Spanner 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15929,7 +15929,7 @@
   {
    "name": "Spatula",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15941,7 +15941,7 @@
   {
    "name": "Speed Bump 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15953,7 +15953,7 @@
   {
    "name": "Speed Bump 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15965,7 +15965,7 @@
   {
    "name": "Speedometer Needle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15977,7 +15977,7 @@
   {
    "name": "Spindle 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -15989,7 +15989,7 @@
   {
    "name": "Spindle 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16001,7 +16001,7 @@
   {
    "name": "Spindle 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16013,7 +16013,7 @@
   {
    "name": "Spindle 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16025,7 +16025,7 @@
   {
    "name": "Spindle 05",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16037,7 +16037,7 @@
   {
    "name": "Spindle 06",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16049,7 +16049,7 @@
   {
    "name": "Spiral Pillar",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16061,7 +16061,7 @@
   {
    "name": "Sponge",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16073,7 +16073,7 @@
   {
    "name": "Spoon",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16085,7 +16085,7 @@
   {
    "name": "Spray Can",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16097,7 +16097,7 @@
   {
    "name": "Spring",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16109,7 +16109,7 @@
   {
    "name": "Square Planter",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16121,7 +16121,7 @@
   {
    "name": "Square Table",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16133,7 +16133,7 @@
   {
    "name": "Square Trellis",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16145,7 +16145,7 @@
   {
    "name": "Square Vase 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16157,7 +16157,7 @@
   {
    "name": "Stack Of Breeze Blocks",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16169,7 +16169,7 @@
   {
    "name": "Stack Of Coins",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16181,7 +16181,7 @@
   {
    "name": "Staddle Stone 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16193,7 +16193,7 @@
   {
    "name": "Staddle Stone 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16205,7 +16205,7 @@
   {
    "name": "Staddle Stone 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16217,7 +16217,7 @@
   {
    "name": "Stair Handrail Profile 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16229,7 +16229,7 @@
   {
    "name": "Stair Handrail Profile 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16241,7 +16241,7 @@
   {
    "name": "Stair Handrail Profile 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16253,7 +16253,7 @@
   {
    "name": "Stair Handrail Profile 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16265,7 +16265,7 @@
   {
    "name": "Standing Floor Chalkboard 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16277,7 +16277,7 @@
   {
    "name": "Standing Floor Chalkboard 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16289,7 +16289,7 @@
   {
    "name": "Staple",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16301,7 +16301,7 @@
   {
    "name": "Stapler",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16313,7 +16313,7 @@
   {
    "name": "Star 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16325,7 +16325,7 @@
   {
    "name": "Star 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16337,7 +16337,7 @@
   {
    "name": "Star Badge",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16349,7 +16349,7 @@
   {
    "name": "Statue Base",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16361,7 +16361,7 @@
   {
    "name": "Steel Ladder",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16373,7 +16373,7 @@
   {
    "name": "Stem Bar Table",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16385,7 +16385,7 @@
   {
    "name": "Stepstool",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16397,7 +16397,7 @@
   {
    "name": "Stick 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16409,7 +16409,7 @@
   {
    "name": "Stick 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16421,7 +16421,7 @@
   {
    "name": "Stick 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16433,7 +16433,7 @@
   {
    "name": "Stick 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16445,7 +16445,7 @@
   {
    "name": "Sticky Note",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16457,7 +16457,7 @@
   {
    "name": "Sticky Note Pad",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16469,7 +16469,7 @@
   {
    "name": "Stone Archway 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16481,7 +16481,7 @@
   {
    "name": "Stone Archway 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16493,7 +16493,7 @@
   {
    "name": "Stone Archway 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16505,7 +16505,7 @@
   {
    "name": "Stone Archway 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16517,7 +16517,7 @@
   {
    "name": "Stone Tile Arrangement 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16529,7 +16529,7 @@
   {
    "name": "Stone Tile Arrangement 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16541,7 +16541,7 @@
   {
    "name": "Stone Tomb 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Nature\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16553,7 +16553,7 @@
   {
    "name": "Stone Wall Fountain",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16565,7 +16565,7 @@
   {
    "name": "Stool 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16577,7 +16577,7 @@
   {
    "name": "Storage Basket",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16589,7 +16589,7 @@
   {
    "name": "Storage Basket 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16601,7 +16601,7 @@
   {
    "name": "Storage Box",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16613,7 +16613,7 @@
   {
    "name": "Storage Shelving 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16625,7 +16625,7 @@
   {
    "name": "Straw",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16637,7 +16637,7 @@
   {
    "name": "Stretcher Bond Brick",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16649,7 +16649,7 @@
   {
    "name": "Stylized Boot",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Armor & Clothing\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16661,7 +16661,7 @@
   {
    "name": "Sun Paving Circle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16673,7 +16673,7 @@
   {
    "name": "Swing Bin",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16685,7 +16685,7 @@
   {
    "name": "Swiss Cheese Slice",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16697,7 +16697,7 @@
   {
    "name": "Sword",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16709,7 +16709,7 @@
   {
    "name": "T Hinge",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16721,7 +16721,7 @@
   {
    "name": "T Wall",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16733,7 +16733,7 @@
   {
    "name": "Table Tennis Paddle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16745,7 +16745,7 @@
   {
    "name": "Tactile Block Paving",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16757,7 +16757,7 @@
   {
    "name": "Take Away Box 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16769,7 +16769,7 @@
   {
    "name": "Take Away Box 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16781,7 +16781,7 @@
   {
    "name": "Take Away Box 03",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16793,7 +16793,7 @@
   {
    "name": "Take Away Box 04",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16805,7 +16805,7 @@
   {
    "name": "Tapered Cork",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16817,7 +16817,7 @@
   {
    "name": "Tea Tray 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16829,7 +16829,7 @@
   {
    "name": "Tea Tray 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16841,7 +16841,7 @@
   {
    "name": "Tealight",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16853,7 +16853,7 @@
   {
    "name": "Teapot",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16865,7 +16865,7 @@
   {
    "name": "Tent Peg 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16877,7 +16877,7 @@
   {
    "name": "Tent Peg 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16889,7 +16889,7 @@
   {
    "name": "Test Tube",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16901,7 +16901,7 @@
   {
    "name": "Throwing Knife",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16913,7 +16913,7 @@
   {
    "name": "Ticket Stub",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16925,7 +16925,7 @@
   {
    "name": "Tiered Fountain 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16937,7 +16937,7 @@
   {
    "name": "Toaster",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16949,7 +16949,7 @@
   {
    "name": "Toasting Fork",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16961,7 +16961,7 @@
   {
    "name": "Toggle Latch",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16973,7 +16973,7 @@
   {
    "name": "Toilet Roll",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16985,7 +16985,7 @@
   {
    "name": "Toothbrush",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -16997,7 +16997,7 @@
   {
    "name": "Torii Gate 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17009,7 +17009,7 @@
   {
    "name": "Torii Gate 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17021,7 +17021,7 @@
   {
    "name": "Torn Clothing Thread",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17033,7 +17033,7 @@
   {
    "name": "Towel Holder",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17045,7 +17045,7 @@
   {
    "name": "Towel Rail 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17057,7 +17057,7 @@
   {
    "name": "Traffic Cone 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17069,7 +17069,7 @@
   {
    "name": "Traffic Cone 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17081,7 +17081,7 @@
   {
    "name": "Tram Rail",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17093,7 +17093,7 @@
   {
    "name": "Trophy",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17105,7 +17105,7 @@
   {
    "name": "Trowel",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17117,7 +17117,7 @@
   {
    "name": "Trunk Protection Railing",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17129,7 +17129,7 @@
   {
    "name": "Tuscan Column",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17141,7 +17141,7 @@
   {
    "name": "Tweezers",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17153,7 +17153,7 @@
   {
    "name": "Usb Stick",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Electronics\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17165,7 +17165,7 @@
   {
    "name": "Valve Wheel 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17177,7 +17177,7 @@
   {
    "name": "Valve Wheel 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17189,7 +17189,7 @@
   {
    "name": "Vent 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17201,7 +17201,7 @@
   {
    "name": "Vent 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17213,7 +17213,7 @@
   {
    "name": "Vent Cover 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17225,7 +17225,7 @@
   {
    "name": "Viking Bog Chair",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17237,7 +17237,7 @@
   {
    "name": "Vintage Crutch",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17249,7 +17249,7 @@
   {
    "name": "Vintage Horn",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Creatures & Animals\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17261,7 +17261,7 @@
   {
    "name": "Vintage Phone",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Electronics\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17273,7 +17273,7 @@
   {
    "name": "Vintage Sickle Scythe",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17285,7 +17285,7 @@
   {
    "name": "Vinyl",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17297,7 +17297,7 @@
   {
    "name": "Vinyl Sleeve",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17309,7 +17309,7 @@
   {
    "name": "Violin Bow",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17321,7 +17321,7 @@
   {
    "name": "Walkie Talkie",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17333,7 +17333,7 @@
   {
    "name": "Walking Trail Bench",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17345,7 +17345,7 @@
   {
    "name": "Walking Trail Fence",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17357,7 +17357,7 @@
   {
    "name": "Walking Trail Log Bench",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17369,7 +17369,7 @@
   {
    "name": "Wall Clock",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17381,7 +17381,7 @@
   {
    "name": "Watch Strap",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17393,7 +17393,7 @@
   {
    "name": "Water Drip",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17405,7 +17405,7 @@
   {
    "name": "Water Faucet 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17417,7 +17417,7 @@
   {
    "name": "Water Filled Barrier 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17429,7 +17429,7 @@
   {
    "name": "Water Pistol",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Weapons\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17441,7 +17441,7 @@
   {
    "name": "Wax Melting Spoon",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17453,7 +17453,7 @@
   {
    "name": "Wax Seal Stamp",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17465,7 +17465,7 @@
   {
    "name": "Weathertop Chimney",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17477,7 +17477,7 @@
   {
    "name": "Wellington Boot",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Armor & Clothing\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17489,7 +17489,7 @@
   {
    "name": "Wet Floor Sign",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Decorative\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17501,7 +17501,7 @@
   {
    "name": "Wheelchair 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17513,7 +17513,7 @@
   {
    "name": "Whiskey Bottle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17525,7 +17525,7 @@
   {
    "name": "Whiskey Glass",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17537,7 +17537,7 @@
   {
    "name": "Whole Note",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17549,7 +17549,7 @@
   {
    "name": "Wifi Symbol",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17561,7 +17561,7 @@
   {
    "name": "Wind Up Key",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17573,7 +17573,7 @@
   {
    "name": "Wine Bottle",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17585,7 +17585,7 @@
   {
    "name": "Wine Box",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17597,7 +17597,7 @@
   {
    "name": "Wine Crate",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17609,7 +17609,7 @@
   {
    "name": "Wine Glass",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17621,7 +17621,7 @@
   {
    "name": "Wine Jug 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17633,7 +17633,7 @@
   {
    "name": "Wine Jug 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17645,7 +17645,7 @@
   {
    "name": "Wine Rack 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17657,7 +17657,7 @@
   {
    "name": "Wine Rack 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17669,7 +17669,7 @@
   {
    "name": "Wood Barrel",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17681,7 +17681,7 @@
   {
    "name": "Wood Onlay 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17693,7 +17693,7 @@
   {
    "name": "Wood Post 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17705,7 +17705,7 @@
   {
    "name": "Wood Stake",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17717,7 +17717,7 @@
   {
    "name": "Wood Wall Panel",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17729,7 +17729,7 @@
   {
    "name": "Wooden Barrel Basic",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17741,7 +17741,7 @@
   {
    "name": "Wooden Bowl 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17753,7 +17753,7 @@
   {
    "name": "Wooden Bowl 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17765,7 +17765,7 @@
   {
    "name": "Wooden Chair 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17777,7 +17777,7 @@
   {
    "name": "Wooden Crate 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17789,7 +17789,7 @@
   {
    "name": "Wooden Crate 02",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17801,7 +17801,7 @@
   {
    "name": "Wooden Dolly Peg",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17813,7 +17813,7 @@
   {
    "name": "Wooden Gate 01",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17825,7 +17825,7 @@
   {
    "name": "Wooden Lab Stool",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17837,7 +17837,7 @@
   {
    "name": "Wooden Ladder",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17849,7 +17849,7 @@
   {
    "name": "Wooden Mallet",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17861,7 +17861,7 @@
   {
    "name": "Wooden Produce Crate",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Household\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17873,7 +17873,7 @@
   {
    "name": "Wooden Rake",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17885,7 +17885,7 @@
   {
    "name": "Wooden Rope Barrier",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17897,7 +17897,7 @@
   {
    "name": "Wooden Rope Barrier Post",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Tools & Hardware\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17909,7 +17909,7 @@
   {
    "name": "Wooden Rose Arch",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Architecture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17921,7 +17921,7 @@
   {
    "name": "Wooden Spatula",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17933,7 +17933,7 @@
   {
    "name": "Wooden Spoon",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Food & Kitchen\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17945,7 +17945,7 @@
   {
    "name": "Wooden Square Bollard",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17957,7 +17957,7 @@
   {
    "name": "Wooden Top Stool",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17969,7 +17969,7 @@
   {
    "name": "Writing Desk",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Furniture\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17981,7 +17981,7 @@
   {
    "name": "X",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {
@@ -17993,7 +17993,7 @@
   {
    "name": "Yoga Mat",
    "itemType": "Model",
-   "metadataJson": null,
+   "metadataJson": "{\"category\":\"Props\"}",
    "isPreviewable": true,
    "files": [
     {

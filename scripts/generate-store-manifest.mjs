@@ -37,6 +37,46 @@ if (dirty) {
 }
 
 const rawBase = `https://raw.githubusercontent.com/Papyszoo/base-meshes/${PINNED_SHA}/models`;
+
+// ---------------------------------------------------------------------------
+// Keyword → standard Model category (ModelibrStore docs/taxonomy.json v1).
+// Matched against underscore-separated name segments (plural-insensitive),
+// FIRST match in table order wins — put specific words before generic ones.
+// Unmatched models default to "Props" (this is a props library) and are listed
+// in category-report.txt for curation.
+// ---------------------------------------------------------------------------
+const KEYWORD_CATEGORIES = [
+  // Weapons before Tools ("battle_axe" vs "axe" both → Weapons; "pickaxe" handled below)
+  [['sword', 'dagger', 'shuriken', 'katana', 'mace', 'spear', 'shield', 'bow?', 'arrow', 'arrowhead', 'bullet', 'grenade', 'cannon', 'gun', 'rifle', 'pistol', 'ammo', 'battle', 'blade', 'axe', 'crossbow', 'quiver', 'sheath', 'scabbard', 'flail', 'halberd', 'club'], 'Weapons'],
+  [['helmet', 'armor', 'armour', 'gauntlet', 'boot', 'glove', 'hat', 'cap', 'belt', 'cloak', 'shoe', 'sandal', 'crown', 'mask', 'shirt', 'pants', 'dress', 'sock', 'scarf', 'jacket'], 'Armor & Clothing'],
+  [['guitar', 'drum', 'violin', 'flute', 'piano', 'trumpet', 'harp', 'banjo', 'accordion', 'microphone', 'metronome', 'tambourine', 'xylophone', 'bell'], 'Music & Instruments'],
+  [['dice', 'chess', 'domino', 'card', 'toy', 'teddy', 'puzzle', 'dart', 'billiard', 'bowling', 'baseball', 'basketball', 'football', 'tennis', 'golf', 'hockey', 'ski', 'skateboard', 'balloon', 'kite', 'yoyo'], 'Toys & Games'],
+  [['apple', 'avocado', 'banana', 'bread', 'cake', 'cheese', 'egg', 'meat', 'pizza', 'fruit', 'vegetable', 'carrot', 'potato', 'tomato', 'onion', 'lemon', 'orange', 'pear', 'grape', 'melon', 'berry', 'mushroom?food', 'mug', 'teapot', 'kettle', 'plate', 'bowl', 'cup', 'goblet', 'fork', 'spoon', 'whisk', 'pan', 'pot', 'jug', 'jar', 'bottle', 'glass', 'tray', 'chopstick', 'ladle', 'grater', 'colander', 'corkscrew', 'cutlery', 'saucer', 'pitcher', 'flask', 'tankard', 'cauldron', 'skillet', 'spatula', 'rolling', 'toaster', 'donut', 'doughnut', 'cookie', 'croissant', 'baguette', 'sausage', 'steak', 'fish?food', 'pumpkin', 'corn', 'wine', 'beer', 'coffee', 'tea'], 'Food & Kitchen'],
+  [['table', 'chair', 'stool', 'bench', 'shelf', 'shelving', 'cabinet', 'drawer', 'desk', 'bed', 'bedside', 'couch', 'sofa', 'wardrobe', 'dresser', 'bookcase', 'ottoman', 'armchair', 'crib', 'bunk', 'nightstand', 'sideboard'], 'Furniture'],
+  [['architrave', 'beam', 'column', 'pillar', 'door', 'window', 'wall', 'stair', 'staircase', 'roof', 'fence', 'arch', 'brick', 'gutter', 'awning', 'balustrade', 'banister', 'cornice', 'skirting', 'lintel', 'sill', 'chimney', 'gate', 'railing', 'scaffold', 'girder', 'truss', 'panel'], 'Architecture'],
+  [['screw', 'nut', 'bolt', 'hammer', 'wrench', 'spanner', 'saw', 'drill', 'plier', 'nail', 'anvil', 'bellows', 'hook', 'axle', 'chisel', 'screwdriver', 'clamp', 'vice', 'vise', 'file', 'rasp', 'trowel', 'shovel', 'spade', 'pickaxe', 'crowbar', 'mallet', 'allen', 'ratchet', 'socket', 'toolbox', 'tape', 'ruler', 'level', 'caliper', 'washer', 'rivet', 'hinge', 'padlock', 'chain', 'rope', 'pulley', 'gear', 'cog', 'spring', 'pipe', 'valve', 'ladder', 'wheelbarrow', 'rake', 'hoe', 'scythe', 'sickle', 'pitchfork'], 'Tools & Hardware'],
+  [['jack', 'cable', 'plug', 'phone', 'monitor', 'keyboard', 'speaker', 'headphone', 'camera', 'battery', 'switch', 'socket?power', 'laptop', 'computer', 'mouse', 'screen', 'television', 'tv', 'radio', 'antenna', 'circuit', 'led', 'usb', 'charger', 'remote', 'console', 'joystick', 'gamepad'], 'Electronics'],
+  [['acorn', 'leaf', 'rock', 'boulder', 'tree', 'branch', 'log', 'stump', 'mushroom', 'flower', 'plant', 'bush', 'grass', 'vine', 'pinecone', 'seashell', 'shell', 'coral', 'stone', 'pebble', 'stick', 'twig', 'root', 'cactus', 'fern', 'moss'], 'Nature'],
+  [['dog', 'cat', 'fish', 'bird', 'horse', 'cow', 'pig', 'sheep', 'chicken', 'duck', 'rabbit', 'frog', 'snake', 'rattlesnake', 'spider', 'deer', 'bull', 'stag', 'boar', 'bone', 'skull?animal', 'antler', 'horn', 'feather', 'egg?nest'], 'Creatures & Animals'],
+  [['car', 'truck', 'boat', 'ship', 'cart', 'wagon', 'wheel', 'tire', 'tyre', 'bicycle', 'bike', 'motorcycle', 'plane', 'helicopter', 'canoe', 'kayak', 'sled', 'anchor', 'oar', 'paddle?boat', 'rudder', 'propeller'], 'Vehicles'],
+  [['human', 'male', 'female', 'mannequin', 'peg_person'], 'Characters'],
+  [['vase', 'statue', 'sculpture', 'picture', 'frame', 'painting', 'banner', 'flag', 'trophy', 'ornament', 'figurine', 'candelabra', 'chandelier', 'wreath', 'garland', 'ribbon', 'speech', 'sign', 'signpost', 'plaque', 'pedestal', 'plinth', 'birdhouse', 'wind_chime', 'gnome'], 'Decorative'],
+  [['vent', 'candle', 'clock', 'mirror', 'lamp', 'lantern', 'broom', 'bucket', 'basket', 'bin', 'ashtray', 'ash', 'towel', 'soap', 'brush', 'comb', 'razor', 'toothbrush', 'pillow', 'cushion', 'blanket', 'curtain', 'rug', 'carpet', 'hanger', 'sponge', 'mop', 'dustpan', 'plunger', 'scissors', 'needle', 'thread', 'button', 'zipper', 'umbrella', 'cane', 'crutch', 'bandage', 'syringe', 'thermometer', 'pill', 'book', 'pen', 'pencil', 'paper', 'envelope', 'scroll', 'quill', 'inkwell', 'stamp', 'key', 'coin', 'wallet', 'purse', 'bag', 'suitcase', 'chest', 'crate', 'barrel', 'box', 'sack', 'pouch', 'abacus', 'hourglass', 'telescope', 'binoculars', 'magnifying', 'compass', 'globe', 'map', 'beaker', 'vial', 'test_tube', 'auction', 'adhesive'], 'Household'],
+];
+
+// Segment-based match, crude plural folding; entries with '?' are
+// disambiguation notes and match on the part before it.
+function categorize(name) {
+  const segments = name.toLowerCase().split('_').filter(Boolean)
+    .map((seg) => (seg.endsWith('s') && seg.length > 3 ? seg.slice(0, -1) : seg));
+  for (const [keywords, category] of KEYWORD_CATEGORIES) {
+    for (const raw of keywords) {
+      const kw = raw.split('?')[0];
+      if (segments.includes(kw)) return category;
+    }
+  }
+  return 'Props';
+}
 const sha256 = (p) => createHash('sha256').update(readFileSync(p)).digest('hex');
 const displayName = (name) =>
   name
@@ -78,10 +118,11 @@ for (const name of names) {
     size: statSync(glb).size,
     role: 'Mesh',
   });
+  const category = categorize(name);
   items.push({
     name: dn,
     itemType: 'Model',
-    metadataJson: null,
+    metadataJson: JSON.stringify({ category }),
     isPreviewable: true,
     files: [{ path: relGlb, role: 'Mesh' }],
   });
@@ -119,6 +160,23 @@ writeFileSync(
   path.join(REPO, 'store-manifest.json'),
   JSON.stringify({ files, items, previews }, null, 1)
 );
+
+// Reviewable assignment report: category → models, so miscategorizations are
+// one glance away (curate by extending KEYWORD_CATEGORIES and rerunning).
+{
+  const byCategory = new Map();
+  for (const item of items) {
+    const cat = JSON.parse(item.metadataJson).category;
+    if (!byCategory.has(cat)) byCategory.set(cat, []);
+    byCategory.get(cat).push(item.name);
+  }
+  const lines = [];
+  for (const [cat, names2] of [...byCategory.entries()].sort((a, b) => b[1].length - a[1].length)) {
+    lines.push(`## ${cat} (${names2.length})`, ...names2.map((n) => `  ${n}`), '');
+  }
+  writeFileSync(path.join(REPO, 'category-report.txt'), lines.join('\n'));
+  console.log('categories:', [...byCategory.entries()].map(([c, n]) => `${c}=${n.length}`).join(', '));
+}
 
 console.log(`models: ${items.length}, files: ${files.length}, previews: ${previews.length}`);
 if (skipped.length) console.log(`skipped: ${skipped.join(', ')}`);
